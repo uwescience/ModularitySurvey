@@ -7,6 +7,8 @@ You can access the databse using
 
 ## Usage
 
+Click ``data`` to do SQL queries.
+
 * List column names
     ``SELECT name FROM pragma_table_info('modularity_survey');``
 * Show all rows
