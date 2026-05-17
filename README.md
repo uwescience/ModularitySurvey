@@ -8,8 +8,8 @@ You can access the databse using
 ## Usage
 
 * List column names
-    SELECT name FROM pragma_table_info('modularity_survey');
+    ``SELECT name FROM pragma_table_info('modularity_survey');``
 * Show all rows
-    SELECT * from modularity_survey
+    ``SELECT * from modularity_survey``
 * Show rows with just Hellerstein AddedBy
-    SELECT * from modularity_survey where AddedBy="Hellerstein"
+    ``SELECT * from modularity_survey where AddedBy="Hellerstein"``
