@@ -1,0 +1,3 @@
+Total papers collected: 1546
+Existing papers in database: 86
+Filtered to 635 biologically relevant, unique papers
