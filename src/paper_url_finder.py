@@ -8,6 +8,7 @@ Strategy per row:
   3. If no OA PDF, fall back to an abstract from Semantic Scholar, then OpenAlex.
   4. If nothing is found, record why (missing DOI, DOI doesn't resolve, DOI resolves
      to a different title than the bibliography row, or no content available).
+  5. Write a log of all outcomes to db/download_log.csv.
 
 Output:
   db/papers/<doi>.pdf       - downloaded full papers
@@ -22,7 +23,6 @@ import csv
 import json
 import re
 import time
-import urllib.error
 import urllib.request
 from collections import Counter
 from difflib import SequenceMatcher
