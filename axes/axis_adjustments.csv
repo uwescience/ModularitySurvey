@@ -1,0 +1,210 @@
+DOI,trait_score,network_score,function_score,evolution_trajectory_score,hierarchy_score,notes
+10.1038/s41562-018-0420-6,0,90,30,,,"Brain network modules (communities, connector hubs) are the core subject: network raised. Modules are linked to distinct cognitive functions, so a moderate function score. Trait keyword hit was spurious."
+10.1016/j.neuron.2018.06.026,,,80,,,"The note uses this paper as its Functions example (combinations of LRR proteins specify synapse function), so function raised."
+10.1007/s12652-018-1159-7,,90,,,,Pure community-detection algorithm for networks; network raised. Not biological in content.
+10.26508/lsa.201800278,0,80,,,,The note uses this paper as its Networks example (gene interaction network from knockout screens); network raised. Trait hit spurious.
+10.1007/s00018-017-2679-6,,70,30,30,,Differential regulatory networks are the method: network raised. Condition-specific regulatory programs give a function component; development/disease rewiring is a modest trajectory.
+10.1371/journal.pgen.1006948,0,60,50,,,Six-TF biofilm regulatory circuit studied as a network module with a defined regulatory function (biofilm formation). Trait hit spurious.
+10.1038/s41540-019-0117-x,,,60,,20,Model components with defined interfaces that encapsulate mechanisms and are composed into larger models: function raised. Composition implies nesting.
+10.7717/peerj.784,,70,,,,Parcellation of connectivity matrices into locally connected clusters is a network-module method; network raised.
+10.1126/science.1069981,0,30,50,30,60,Modular architectures built from hierarchies of protocols and feedback layers: hierarchy and function raised. Convergent evolution is mentioned but not analysed.
+10.1073/pnas.0503610102,,70,40,90,,Networks evolved under modularly varying goals: evolutionary trajectory is central and the modules are network subgraphs that perform subtasks.
+10.1098/rspb.2012.2863,,70,20,90,,Evolution of network modularity under connection costs (Q score): evolution and network raised. Modules perform functions only implicitly.
+10.1126/scisignal.2001212,,20,90,0,,"MAPK cascade analysed as an input/output negative-feedback amplifier, a clear Functions module. Evolution hit came from 'drug development'."
+10.1038/s41467-021-21125-3,,10,90,,,"Synthetic gene-circuit modules whose function fails under resource competition (context dependence), a core Functions theme."
+10.1038/s43587-022-00252-6,,40,30,,30,Only the bibliography summary was available. Complex-systems framing of aging uses interacting subsystems (networks) across levels (hierarchy); scores estimated from that summary.
+10.1109/tnnls.2021.3137396,0,80,,0,,Survey of deep-learning community detection; network raised. Not biological; trait/evolution hits spurious.
+10.1016/j.tcb.2020.04.002,,30,60,,,"Reusable dynamical modules (switches, oscillators) characterised by input/response bifurcations: function raised."
+10.1038/s41598-019-52725-1,,70,70,0,,"Stable motifs in a logical network model: network raised. Each motif maintains a regulatory state, and the motifs are nested (hierarchy kept)."
+10.1038/s41588-021-00840-z,,60,70,,,"Modules come from clustering gene co-essentiality profiles (network-style method, like the note's knockout example) and are interpreted as pathways and complexes."
+https://pubmed.ncbi.nlm.nih.gov/40631273/,,80,40,30,60,Human genetic interaction network with hierarchical modules; conservation of network principles from yeast to human adds an evolutionary component. Only the bibliography summary was available.
+10.1126/science.aaf1420,,,40,,70,Global genetic interaction network with modules nested from complexes to bioprocesses: hierarchy raised.
+10.1126/sciadv.adj0822,,70,30,,,Meta-analysis of Boolean regulatory network models (structure and dynamics): network raised.
+10.1038/ng1987,,30,70,,,A co-expressed cluster of negative regulators acts as a feedback unit on growth-factor signaling: function raised.
+10.1111/evo.12743,90,,,90,,The note uses this paper as its Traits example (body-shape trait modules and their evolutionary rates).
+10.1083/jcb.201801048,,,60,,10,Condensin I and II are treated as functionally distinct protein modules that organize chromosomes; keyword lexicon missed the functional framing.
+10.1371/journal.pcbi.1003849,,,60,0,,"Reusable, composable model modules with semantic interfaces: function raised. Evolution hit spurious."
+10.1007/s10462-019-09706-7,,40,40,,,Review of modular artificial neural networks; sub-networks handle sub-tasks. Not biological.
+10.15252/msb.20167347,,40,80,,,"Asks whether circuit functions map onto separable sub-circuits: function central, circuit topology gives a network component."
+10.1016/j.ymthe.2016.10.005,,,80,,,Engineered sensor-amplifier-thresholder-actuator gene circuit: modules are input/output functional units.
+10.1186/s12862-018-1282-2,90,,,70,,The note uses this paper as its Traits example (thoracic/lumbar vertebral trait modules across mammal evolution).
+10.1021/acs.jproteome.7b00404,20,60,30,,,Metabolite association networks compared across age/sex groups: network raised. Individuals grouped by attributes gives a small trait component.
+10.70930/tac/7tz1nkbd,,40,70,,40,Black boxes with input/output ports composed through wiring diagrams: Functions axis with nested composition (hierarchy). Abstract mathematics.
+10.1016/j.neuron.2017.11.028,,30,20,,,Module concept is loose (homeostatic neural circuits); low scores overall. Only the bibliography summary was available.
+10.2139/ssrn.3770938,,70,40,0,,"Tissue-specific protein interaction networks and complexes: network raised. 'Rewiring' is across tissues, not evolution."
+10.15252/msb.20177554,,,80,,,Gene expression module decodes ERK signal duration (input) into expression (output): function raised.
+10.1101/2020.02.29.970558,40,10,30,,30,Cell types defined by combinations of molecular features across many cells are trait-like modules; multi-modal (transcriptome/epigenome) layers add hierarchy.
+10.1371/journal.pone.0172389,,60,20,30,,WGCNA co-expression network modules: network raised. Differentiation time course is a developmental trajectory.
+10.1016/j.cell.2011.05.006,,60,50,,,Protein complexes as modules linked through shared subunits into a complexome network; complexes perform regulatory functions.
+10.1101/209429,,80,,,,Community detection in brain graphs is the core topic; network raised.
+10.1126/science.aao6535,,,60,,30,"The processing machinery is organized into nuclease, polymerase and phosphatase modules, each with its own function, nested in one complex."
+10.1038/nature22366,,80,40,,,BioPlex interactome clustered into protein communities that correspond to complexes and pathways.
+10.1038/s41592-019-0509-5,0,80,,,,DREAM challenge on network module identification: network raised. Trait hit spurious.
+10.1038/nrmicro3508,,60,30,,,Only the bibliography summary was available. Review of bacterial protein interaction networks and their functional clusters.
+10.3389/fgene.2012.00067,0,30,,,,Review of robustness mechanisms; modularity is one mechanism among feedback and redundancy. Trait hit spurious.
+10.1093/gigascience/giy014,,80,,,,Survey of bipartite graph methods and biclusters: network raised.
+10.1016/j.isci.2023.106041,,50,,,,Bow-tie network structure compared between biological and artificial networks: network raised.
+10.1371/journal.pcbi.1005677,0,40,60,20,,"Bow-tie signaling network with many input enzymes, one second-messenger pool, and many outputs: function raised. Evolution and trait hits are mostly spurious."
+10.1038/s41540-024-00398-6,,,,10,,"Strongly connected components of regulatory networks, nested hierarchically. Evolution hit is about cancer mutations, not an evolutionary trajectory."
+10.1093/femsle/fnx176,,,70,,40,Carboxysome as a CO2-fixation module built from protein-domain building blocks encoded in genetic loci (nested objects).
+10.1016/j.cell.2017.09.008,0,50,60,0,,"The abstract on file belongs to a different paper (DOI mismatch), so keyword scores are unreliable. Scored from the title and module definition: signaling networks whose functional units emerge from dynamics."
+10.1038/s41467-024-50426-6,,70,30,0,,Graph neural network partitions a cancer gene interaction graph into modules: network raised. 'Development' hit refers to tumour development.
+10.3389/fnsys.2017.00029,,60,10,,,Large-scale resting-state brain networks; modules are functional connectivity communities.
+10.1186/s13148-021-01047-z,,60,,0,,Network-medicine review of disease modules in the interactome: network raised.
+10.1126/science.aaq1327,,60,30,,,Serum protein co-regulatory networks (modules of correlated proteins) linked to disease: network raised.
+10.1126/science.ade9434,,,50,,40,Enzyme fragments combinatorially assembled into functional enzymes; fragments are nested in the enzyme (hierarchy). Weak fit to the three axes.
+10.1016/j.soilbio.2016.11.029,20,70,20,0,,Microbial co-occurrence network modules across taxa; species composition gives a small trait component. Evolution hit came from 'phylogenetic diversity'.
+10.1016/j.cels.2018.02.008,,30,70,,,Toggle switch and repressilator treated as functional building blocks combined in one circuit: function raised.
+10.1016/j.jnca.2018.02.011,,80,,,,Only the bibliography summary was available. Multidisciplinary review of community detection: network raised.
+10.1073/pnas.122653799,,,,,40,Girvan-Newman community detection; communities are found by hierarchical (divisive) clustering.
+10.1111/evo.13867,90,,,,30,Statistical method for trait-covariation modularity in morphometric data: trait raised.
+10.1016/j.compbiomed.2019.103380,,60,50,,,"The note lists this as a Functions example (miRNA input, protein output); the method is differential co-expression network modules, so both are scored."
+10.15252/msb.20188438,,20,50,0,,Proteome profiling of protein complexes as functional modules; evolution hit spurious.
+10.1049/iet-syb:20080092,,50,50,,,Only the bibliography summary was available. Criteria for decomposing intracellular networks into independently simulated modules (weak coupling).
+10.1093/bioinformatics/btn330,,,,,30,Composable standard parts are assembled into larger circuits (nested composition).
+10.1098/rsif.2016.0380,,,80,,,"Control-theory review of synthetic circuit modules, context dependence and resource sharing: function raised."
+10.1534/genetics.114.173443,80,,,50,,"Genetic modularity of cortical-folding traits in a pedigreed baboon population: trait raised. Evolutionary history is discussed, not traced."
+10.1007/s11692-016-9371-x,90,,,40,,"Cranial shape modules (rostral, zygomatic, neurocranial) under hybridization: trait raised."
+10.1093/bioadv/vbae099,,80,30,0,,"Survey of network biology (modules, multi-scale methods): network raised."
+10.1038/s41467-023-44256-1,,,,,60,"Regulatory circuits are stacked across transcriptional, post-transcriptional and translational levels."
+10.1038/s41576-021-00389-x,,70,20,,,Only the bibliography summary was available. Review of disease modules in the interactome: network raised.
+10.1002/bies.202300188,,30,60,20,30,"Catalogue of recurring design patterns (switches, adaptation, oscillation) in reaction networks: function raised."
+10.1038/s41580-018-0024-z,,,80,,40,Only the bibliography summary was available. Engineered gene circuits as functional modules assembled hierarchically.
+10.1371/journal.pone.0187736,,50,40,30,,Task-specialised sub-networks in artificial neural networks (neuroevolution); not biological.
+10.1038/s41467-019-12131-7,,50,50,0,,Epistasis between pathways in GWAS: pathways are functional modules connected by genetic-interaction links.
+10.1016/j.compchemeng.2004.08.035,,40,60,,,Only the bibliography summary was available. Conditions for valid modular decomposition of signaling networks (precursor to retroactivity).
+10.15252/msb.20209593,,80,,,,Active-module identification on gene networks: network raised.
+10.1101/2020.01.19.905109,,70,30,,,Cell-line-specific interactomes; modules are protein communities remodelled across contexts.
+10.1073/pnas.1608819113,,70,,,,Dynamic brain-network reconfiguration measured by multilayer modularity: network raised.
+10.1371/journal.pone.0247671,,50,50,20,,ODE models show how co-expression modules emerge from shared regulatory inputs. Evolution hit is weak.
+10.1038/nchem.2644,,,70,,20,Genetic circuits isolated in liposomes as composable functional compartments: function raised.
+10.1016/s0947-3580(09)70995-1,,,80,,,"Only the bibliography summary was available. Retroactivity and input/output modularity, a core Functions theme."
+10.1038/s41592-019-0461-4,,30,40,,,Software to infer protein complexes from co-elution profiles.
+10.1371/journal.pcbi.1004055,,50,,80,,Multilayer networks evolved to meet an input/output goal produce bow-ties: evolutionary trajectory and network raised.
+10.1016/j.plrev.2021.03.004,40,20,,60,,Genotype-phenotype maps and evolutionary dynamics; modules are sets of loci affecting traits.
+10.1038/35011540,0,30,90,30,30,Only the bibliography summary was available. Landmark statement that functional modules have defined inputs and outputs: function raised.
+10.1186/s13637-017-0059-z,,,,0,,Review of protein co-expression networks; evolution hit spurious.
+10.1086/681213,,60,,,,Network folding in creative teams (sociology); not biological.
+10.1038/s41540-020-00168-0,,,,0,,Disease modules in the interactome via co-expression switch genes; evolution hit spurious.
+10.1371/journal.pgen.1006402,,,,60,,Co-expression network connectivity predicts selective constraint (purifying selection): evolution raised.
+10.1038/s41396-018-0232-8,10,60,50,0,,Genetic correlation network modules in soil microbes map to ecological functions such as carbon and nitrogen cycling.
+10.1038/s41580-022-00534-2,,20,70,,30,"Integrator complex organized into cleavage, scaffold and phosphatase modules with distinct functions."
+10.1371/journal.pcbi.1010310,,,,0,,Graph-based clustering software for high-dimensional data.
+10.1186/s12859-021-04179-4,0,70,,0,,WGCNA co-expression module software: network raised. Trait and evolution hits spurious.
+10.1371/journal.pone.0125886,,60,60,0,70,Feedback-loop modules organized hierarchically by timescale in signaling networks: hierarchy raised.
+10.1126/science.1073374,20,80,40,,90,The note's hyper-module example (network analysis combined with traits across 43 organisms). Hierarchical modularity is the main result.
+10.1093/bioinformatics/btaa775,,70,30,,30,Clustering on higher-order network motifs to find functional modules: network raised.
+10.1038/s41567-020-0924-7,,60,,,,Human learning of modular networks of concepts; not biological.
+10.1371/journal.pcbi.1002262,,60,70,,60,"Reaction modules found from retroactive (feedback) distances in metabolic networks, organized hierarchically: network and hierarchy raised."
+10.3389/fphys.2019.01081,,60,30,,,WGCNA co-expression modules and hub genes in bipolar disorder: network raised.
+10.1038/srep43845,,70,30,0,,Topological data analysis of perturbed protein interaction networks to find modules: network raised.
+10.7717/peerj.1525,,80,,,50,Community detection across multiplex network layers: network raised; multiple layers give a hierarchy component.
+10.1158/2326-6066.cir-18-0342,30,20,40,,,Gene signatures that define immune cell types; cell types defined by shared expression features are trait-like.
+10.1177/1352458516651503,,70,,0,,Structural and functional brain network communities in multiple sclerosis: network raised.
+10.1016/j.neuroimage.2017.02.066,20,70,10,30,,Only the bibliography summary was available. Time-varying brain network modularity and individual differences: network raised; change over time gives a modest trajectory.
+10.1038/s41467-021-21146-y,,70,,,,Patient-specific disease modules in the interactome: network raised.
+10.1016/j.csbj.2020.10.022,0,70,,,,Gene regulatory network inference by graph neural networks (link prediction). Trait hit spurious.
+10.1038/s41467-017-00063-z,,10,80,,,Insulated promoter/operator units compose predictably into circuits: function raised.
+10.1038/s41598-017-15795-7,20,,,0,,Brain-network modularity correlates with intelligence across individuals; individual differences give a small trait component.
+10.1016/j.coisb.2017.04.015,,70,20,,,Network-medicine review of interactome modules and disease: network raised.
+10.1126/science.abf3067,,60,50,0,,Multiscale hierarchy of protein systems from interaction and co-essentiality networks; functions validated by mutation phenotypes. Evolution hit spurious.
+10.1371/journal.pcbi.1005456,,50,,,,"Randomization of regulatory circuit topology to test robustness of circuit functions (toggle, repressilator)."
+10.1016/j.cels.2018.04.011,,40,60,30,,Co-essentiality assigns subunits to protein complexes (functional modules); complexes are described as co-evolved.
+10.1038/s41467-020-17232-2,,,60,,30,INTS10-13-14 is a separable functional sub-module of Integrator that binds nucleic acids (nested in the larger complex).
+10.1186/s12918-017-0505-2,,70,30,30,,Modularity (Q) and robustness under edge-removal mutations in signaling networks; mutations are a minimal evolutionary component.
+10.1016/j.neuroimage.2014.12.046,,60,10,,,Only the bibliography summary was available. Integration among resting-state brain networks and working memory.
+10.1073/pnas.2321112121,,20,40,,30,Energy costs of computation in modular physical systems; peripheral to biology.
+10.1093/bib/bby014,20,40,30,0,,Review of biclustering (gene-sample modules); samples with shared gene patterns resemble trait modules. Evolution hit spurious.
+10.1093/bioinformatics/btv130,,70,,30,,Graphlet-based alignment of protein interaction networks across species reveals conserved pathways (evolutionary comparison).
+10.1016/j.celrep.2019.07.019,,70,40,30,,Plasmodium interactome modules; conserved versus species-specific modules give an evolutionary comparison.
+10.1038/s41593-021-00999-y,,50,40,,,Protein co-expression network modules preserved across brain regions in Alzheimer's disease: network raised.
+10.3389/fsysb.2024.1417800,,40,50,60,,"Perspective on modular building blocks across scales and their evolutionary advantages (evolvability, robustness)."
+10.1152/jn.00758.2015,30,,60,30,,Muscle synergies are functional motor modules; training changes them over years (trajectory). Individuals compared (experts vs novices) gives a trait component.
+10.1523/jneurosci.1451-18.2019,,70,,40,,Longitudinal decline of brain-network modular segregation with aging: network raised; aging is a trajectory over time.
+10.1111/geb.12270,20,70,,,0,Bipartite plant-disperser interaction networks: network raised. Species composition and climate gradients give a small trait component.
+10.1038/s41540-019-0096-1,,60,70,,,Modular Response Analysis reconstructs connections between signaling modules (inter-module protein complexes): network raised.
+10.1016/j.cels.2021.05.012,,50,30,,90,Review of multiscale hierarchies built from network proximity: hierarchy and network raised.
+10.1038/msb.2008.45,,30,80,0,,"Rab GTPase modules defined as molecules that jointly perform a function, linked in cascades: function raised."
+10.1016/j.febslet.2015.04.026,,70,50,,,Review of protein-complex prediction from interaction networks; complexes are functional units.
+10.1016/j.copbio.2019.08.005,,,90,0,,The abstract on file belongs to a different paper (DOI mismatch). Scored from the title and definition: retroactivity and input/output modularity of circuits.
+10.1016/j.cub.2019.03.047,80,20,50,,,The note uses this paper as its Traits example: communities of species (guilds) that assemble around substrates; the guilds also have metabolic functions.
+10.1371/journal.pcbi.1003486,,30,,0,30,Retroactivity matrices for composing transcription-network modules; composition is nested. Evolution hit spurious.
+10.48550/arxiv.2302.11529,,20,50,,30,Survey of modular deep learning (reusable trained components); not biological.
+10.1371/journal.pgen.1007958,,40,60,80,,Compensatory evolution after gene deletion is modular (within complexes and pathways): evolution raised.
+10.1093/molbev/msab307,70,,50,,,Metabolite levels treated as coevolving traits across Drosophila species; modules enrich for biochemical pathways (hyper module).
+10.1073/pnas.0237338100,,80,,0,,Clustering of protein interaction networks into modules with organizer and connector proteins: network raised.
+10.1002/hbm.23501,,70,20,,,Connectome modules and structure-function coupling in schizophrenia: network raised.
+https://www.pnas.org/doi/abs/10.1073/pnas.0601602103,,100,,,,Duplicate of Newman 2006 (stored under a URL); scored like the DOI row. Defines modularity Q for networks.
+10.1038/ncomms12031,,70,,0,,Modularity of species-interaction networks and community stability: network raised.
+10.3389/fgene.2021.701331,,,40,,40,"Review of structural and functional definitions of modules in biological networks, including hierarchical modules."
+doi.org/10.1098/rsif.2023.0505,,70,50,0,60,Duplicate of the Kadelka et al. row (DOI stored without https). SCC modules of Boolean networks form a hierarchy and link structure to dynamics.
+10.1098/rsif.2023.0505,,70,50,0,60,SCC modules of Boolean networks form a hierarchy (semidirect products) and link structure to dynamics (function). Evolution hit spurious.
+10.1146/annurev-ecolsys-121415-032409,80,,30,80,50,Review of variational (trait) modularity in quantitative genetics and evolution across levels of organization: trait and evolution raised.
+10.1002/wsbm.1489,,70,,0,,Network-medicine review of molecular network types: network raised.
+10.1186/s12862-018-1342-7,,0,,,,"Cranial modules from landmark covariation across 32 caecilian genera, with evolutionary rates per module. Network hit spurious."
+10.1038/s41598-018-23672-0,,,50,,,Protein interaction network modules that are both topologically cohesive and functionally coherent (GO enrichment).
+10.1109/tcbb.2017.2740381,,,,40,,Alignment of protein interaction networks across species finds conserved regions (evolutionary comparison).
+10.1371/journal.pcbi.1008239,,80,,,60,Community detection at multiple resolutions in Cytoscape; the resulting communities form a hierarchy.
+10.1038/srep12298,,,40,0,,Gene network modules in regressing tumours used to predict drug combinations. Evolution hit spurious.
+10.1038/s41562-018-0463-8,,60,,,,Human learning of sequences generated from modular graphs; cognitive science rather than biological modules.
+10.1126/sciadv.adh0215,,60,30,0,,"Network-medicine framework linking herbs, targets and symptoms. Evolution hit spurious."
+10.1371/journal.pcbi.1006749,,60,40,60,,Perspective on whether network motifs arise from selection or from non-adaptive processes: network and evolution raised.
+10.1126/science.298.5594.824,,70,50,,,Network motifs as recurring subgraphs that act as elementary functional circuits: network raised.
+10.1038/nrg2102,,60,70,,,Only the bibliography summary was available. Review of motifs as circuits with characteristic information-processing functions.
+10.1186/1742-4682-7-20,0,30,,30,,Networked buffering: versatile agents give distributed robustness. Evolution is discussed conceptually.
+10.1371/journal.pcbi.1004128,,60,30,70,,Neural networks evolved with connection costs become modular and learn new skills without forgetting: evolution raised.
+10.1038/s41467-021-21700-8,,50,50,,,"Delay differential equations for network motifs (feedback, feed-forward) and their dynamics."
+10.4204/eptcs.397.14,,,30,,20,"Category theory of obstructions to compositionality; abstract mathematics, peripheral to biology."
+10.1186/s13059-019-1893-y,,20,30,,90,Nested TAD hierarchy in chromatin contact maps: hierarchy raised.
+10.1111/1365-2435.12971,90,20,,60,,"Leaf trait modules (defence, economy) change across plant ontogeny, a developmental trajectory: trait raised."
+10.1038/nature14877,,40,50,60,,Protein complexes conserved across metazoans (evolutionary comparison of functional modules).
+10.1101/467944,,,40,70,,Experimental evolution: diminishing-returns epistasis among beneficial mutations in shared pathways.
+10.1186/s12862-017-0993-0,,0,,,,Skull vs. limb modules evolve at different rates across a frog radiation. Network hit spurious.
+10.1111/tpj.13502,,60,60,90,,"Co-expression network modules dated by phylostratigraphy, with duplication and speciation of functional modules (hyper module)."
+10.1038/srep21957,0,50,70,,,Dynamical modules of regulatory networks each produce a distinct function (phenotype) and combine into phenotype combinations. Trait hit spurious.
+10.1016/j.mib.2018.02.009,,,,0,,Review of engineered genetic devices from single cells to consortia; evolution hit spurious.
+10.1038/ncomms15188,,40,70,,,Orthogonal metabolic pathways designed to minimise interaction with host metabolism (Functions module with a network analysis).
+10.1038/ng941,,70,60,,,Only the bibliography summary was available. Module networks: transcription modules are condition-specific gene sets under shared regulators.
+10.1111/geb.12996,80,70,,20,,Hyper module: plant traits are nodes of a probabilistic graphical model; trait modules are clusters of directly connected traits.
+10.48550/arxiv.2305.08746,,50,30,,,Only the bibliography summary was available. Brain-inspired modular training of artificial neural networks; not biological.
+10.1186/s12983-018-0258-9,,0,0,,,Six cranial modules from geometric morphometrics in domestic and wild equids; domestication is the trajectory.
+10.1016/s0955-0674(03)00017-6,,30,80,,,Only the bibliography summary was available. Signaling modules classified by their dynamical input/response behaviour: function raised.
+10.1103/physrevresearch.2.043271,,80,,0,,Bayesian inference of assortative communities in networks: network raised. Not specific to biology.
+10.32408/compositionality-4-3,,,30,,20,"Category theory of open systems (cospans); abstract mathematics, peripheral to biology."
+10.1016/j.cels.2016.06.010,,40,70,,,Switch-like transitions insulate a network motif so it functions independently of context: function raised.
+10.2307/985254,,20,20,50,90,Simon's classic argument that complex systems are nested hierarchies of subsystems that evolve faster (near-decomposability): hierarchy raised.
+10.3390/cells8070701,,0,50,,,Centrosome and primary cilium as functional modules built from shared centriole templates.
+10.1101/2020.12.08.416503,,20,,0,,Combinatorial ligand-receptor logic of BMP signaling (input/output). Evolution hit spurious.
+10.1007/s13752-025-00498-4,,30,,,40,Only the bibliography summary was available. Coordination of signaling-pathway modules through cross-regulation and hierarchical integration.
+10.1007/s11538-010-9501-z,,60,30,,,Only the bibliography summary was available. SCC decomposition of Boolean network wiring diagrams; feedback structure determines dynamics.
+10.1038/onc.2015.372,,20,50,,,Only the bibliography summary was available. EGFR-HER2 receptor pair treated as one signaling module that drives tumours.
+10.1016/j.cub.2020.04.008,,,60,90,,Stepwise evolutionary assembly of functional modules in neuronal machinery: evolution raised.
+10.1371/journal.pcbi.1004829,,60,20,80,90,Hierarchical modularity evolves under connection-cost selection: hierarchy and evolution raised.
+10.1073/pnas.1510619112,,80,60,,,Hyper module: brain-network modules each perform a discrete cognitive function; connector nodes link modules.
+10.1098/rstb.2005.1807,,50,70,90,,Protein complexes as functional modules that originate by duplication and co-option: evolution raised.
+10.1038/nrg2267,60,30,50,90,50,"Only the bibliography summary was available. Wagner et al. review distinguishing variational (trait), functional and developmental modularity and their evolutionary origin."
+10.1137/s003614450342480,,,,0,,The note uses this review as its Networks example.
+10.1016/j.jclepro.2023.140439,,60,,,,Only the bibliography summary was available. Communities in the global food trade network; not biological.
+10.1038/s41467-018-04151-6,,60,60,0,,Topologies required for robust perfect adaptation (a function) in networks of any size. Evolution hit spurious.
+10.1016/j.cell.2017.08.032,40,,,,,Hyper module: combinations of gene families define neuron types (cells as individuals with traits) and their synaptic input/output. Analogue of the note's LRR example.
+10.1002/hbm.23621,,70,30,,,Brain network reorganization (segregation vs. integration) under cognitive load: network raised.
+10.1128/msystems.00303-18,,60,50,0,,"Human protein complexes targeted by viral proteins, analysed in the interaction network."
+10.1186/s12711-016-0205-1,,60,30,,,Review of network approaches to genomics data; pathways shown as networks.
+10.1038/nmeth.4627,,30,50,,90,"DCell: neural network embedded in the hierarchy of 2,526 cellular subsystems predicts growth from genotype: hierarchy raised."
+10.1021/acssynbio.5b00297,,,,0,,"RNA devices (riboswitches, aptamers) as composable regulatory modules; evolution hit spurious."
+10.1016/j.cels.2024.08.001,0,20,70,40,30,Conserved 'system cores' reused in different contexts across cell and developmental biology: function raised.
+10.1111/ede.12390,60,20,30,60,30,"Conceptual review of what modularity means across genetics, development, morphology and evolution; mostly about trait integration."
+10.1016/j.soilbio.2018.07.022,20,,,,,Microbial co-occurrence networks (nodes are taxa); taxa composition gives a small trait component.
+10.1038/nbt.3044,,,,,,Reading agreed with the keyword scores; no adjustment.
+10.1038/s41467-018-07899-z,,,,,,Reading agreed with the keyword scores; no adjustment.
+10.1093/nar/gkv1280,,,,,,Reading agreed with the keyword scores; no adjustment.
+10.1021/acssynbio.5b00225,,,,,,Reading agreed with the keyword scores; no adjustment.
+10.1109/tnse.2020.3049068,,,,,,Reading agreed with the keyword scores; no adjustment.
+10.1038/msb4100204,,,,,,Reading agreed with the keyword scores; no adjustment.
+10.1073/pnas.0601602103,,,,,,Reading agreed with the keyword scores; no adjustment.
+10.1016/j.tibtech.2014.11.009,,,,,,Reading agreed with the keyword scores; no adjustment.
+10.1101/091306,,,,,,Reading agreed with the keyword scores; no adjustment.
+10.3389/fnins.2016.00014,,,,,,Reading agreed with the keyword scores; no adjustment.
+10.1098/rsif.2015.1046,,,,,,Reading agreed with the keyword scores; no adjustment.
+10.1038/s41467-022-33288-8,,,,,,Reading agreed with the keyword scores; no adjustment.
+10.1111/ede.12218,,,,,,Reading agreed with the keyword scores; no adjustment.
