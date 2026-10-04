@@ -1,3 +1,8 @@
 # No third-party dependencies.
 # All src/*.py files use only the Python standard library.
+brotli
+jupyterlab
+pandas
+numpy
+matplotlib
 nose2
